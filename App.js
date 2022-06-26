@@ -69,7 +69,7 @@ const App = () => {
         <View></View>
       ) : (
         <View>
-          <View style={{marginTop: 200, marginLeft: 80}}>
+          <View style={{marginTop: 200,alignItems:'center'}}>
             <TextInput
               style={{
                 borderRadius: 5,
